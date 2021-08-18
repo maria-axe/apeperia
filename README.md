@@ -1,2 +1,2 @@
-# Apeperia
-Layout responsivos 
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
